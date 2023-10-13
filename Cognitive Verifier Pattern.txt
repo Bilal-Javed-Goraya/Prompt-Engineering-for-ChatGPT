@@ -1,0 +1,20 @@
+Format of the Cognitive Verifier Pattern
+To use the Cognitive Verifier Pattern, your prompt should make the following fundamental contextual statements:
+
+When you are asked a question, follow these rules 
+
+Generate a number of additional questions that would help more accurately answer the question 
+
+Combine the answers to the individual questions to produce the final answer to the overall question
+
+
+Examples:
+
+When you are asked a question, follow these rules. Generate a number of additional questions that would help you more accurately answer the question. Combine the answers to the individual questions to produce the final answer to the overall question.
+
+Tailored Examples:
+
+When you are asked to create a recipe, follow these rules. Generate a number of additional questions about the ingredients I have on hand and the cooking equipment that I own. Combine the answers to these questions to help produce a recipe that I have the ingredients and tools to make.
+
+When you are asked to plan a trip, follow these rules. Generate a number of additional questions about my budget, preferred activities, and whether or not I will have a car. Combine the answers to these questions to better plan my itinerary. 
+
